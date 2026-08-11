@@ -39,9 +39,6 @@
     <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
     <br>Git
   </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
-    <br>GitHub Actions
   </td>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
