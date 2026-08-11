@@ -4,7 +4,6 @@
 
 **Estudante de Engenharia de Software**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ailton-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ailton-dev)
 
 ---
@@ -18,23 +17,9 @@
 ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
-## Repositórios em destaque
-
-### 🔐 PinPom — Gerenciador de Senhas
-
-Aplicação desktop em **Java Swing** com cofre local criptografado.
-
-- Criptografia **AES-256-GCM** · chave derivada via **PBKDF2**
-- Importação/exportação **CSV** · gerador e medidor de força de senha
-- Tema claro/escuro · suporte a **PIN** e identidades
-
-[Ver repositório →](https://github.com/ailton-dev/PinPom)
 
 ---
 
 <div align="center">
-
-*Java · Spring Boot · MySQL · Linux · Shell Script*
-
 </div>
 </div>
